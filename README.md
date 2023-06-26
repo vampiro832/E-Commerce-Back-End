@@ -5,6 +5,6 @@ Pull information needed
 # Use
 need to npm i inorder to run it 
 
-# auther 
+# author 
 Name: Abraham 
 Github: Vampiro832
